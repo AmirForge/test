@@ -1,9 +1,8 @@
 {
   "name": "smart-calc-app",
-  "description": "A lightweight scientific calculator web application with serverless backend",
   "version": "2.0.1",
   "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
